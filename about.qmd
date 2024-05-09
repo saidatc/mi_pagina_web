@@ -1,0 +1,13 @@
+---
+title: "Acerca"
+---
+
+Esta es mi primera página web creada en quarto.
+
+## Contacto:
+
+Correo: stirado@espol.edu.ec 
+Número: 0963630871
+
+
+

@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Saida Tirado Caicedo"
+  image: yo.png
+  navbar:
+    logo: yo.png
+    title: false  
+    left:
+      - href: index.qmd
+        text: Hola
+      - about.qmd
+
+
+format:
+  html:
+    theme: menta
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: Contenidos
+
+
+
