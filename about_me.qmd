@@ -2,8 +2,7 @@
 title: "Sobre mí"
 ---
 
-
-![](yo.png){width="163"}
+![](yo.png){width="207"}
 
 *Hola, sean bienvenidos a mi primera página web creada en Quarto.*
 

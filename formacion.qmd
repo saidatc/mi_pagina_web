@@ -18,13 +18,15 @@ title: "Formación Académica"
 
 *Calle Esmeraldas.*
 
-## *Preparatoria:*
+## *Preparatoria*
 
-*Unidad Educativa Fiscal Mixta Vicente Rocafuerte*
+*Unidad Educativa Fiscal Vicente Rocafuerte*
 
 *3 años de duración.*
 
 *Calle Aguirre.*
+
+![](vr.png){fig-align="left" width="309"}
 
 ## *Educación Superior*
 
@@ -33,3 +35,5 @@ title: "Formación Académica"
 *Estudiante de Ingeniería en Logística y Transporte.*
 
 *Guayaquil - Ecuador.*
+
+[![](espol.png){fig-align="left" width="336"}](https://images.squarespace-cdn.com/content/v1/55d9fb0ee4b0dfd798034243/1559091141481-21H2UVPNSEEONRXMW4R8/Logo+ESPOL+solo.png)
