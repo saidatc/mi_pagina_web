@@ -1,13 +1,19 @@
 ---
-title: "mi_página_web"
+title: "Hola"
 ---
 
-# HOLA
+### Bienvenidos
 
-Bienvenido a mi primer sitio web creado en Quarto.
+\
 
-# FECHA
+*Sean bienvenidos a mi primer sitio web creado en Quarto.*
 
-Esta página web fue creada el 8 de mayo del 2024.
+*Esta página web fue creada el 8 de mayo del 2024.*
 
+*He creado esta página con la finalidad de plasmar los conocimientos que he adquirido.*
 
+*Los invito a seguir leyendo cada sección para conocer más sobre mis pensamientos, formación académica, metas, pasatiempos, entre otros ..*
+
+\
+
+![](quarto.png){width="125"}

@@ -4,14 +4,20 @@ project:
 
 website:
   title: "Saida Tirado Caicedo"
-  image: yo.png
+  image: s.png
   navbar:
-    logo: yo.png
+    logo: s.png
     title: false  
     left:
       - href: index.qmd
         text: Hola
-      - about.qmd
+      - href: about_me.qmd
+        text: Sobre mí
+      - href: formacion
+        text: Formación Académica
+      - href: hobbies
+        text: Pasatiempos
+      - end.qmd
 
 
 format:
