@@ -2,7 +2,6 @@
 title: "Sobre mí"
 ---
 
----
 
 ![](yo.png){width="163"}
 
