@@ -16,7 +16,7 @@ title: "Mis Pasatiempos"
 
 ### *Deportes*
 
-*Cuando era más joven solia jugar básquet, gane un campeonato de fútbol en mi colegio. Aunque ya no realizo ninguno de estos dos deportes, me gusta ejercitarme seguido para mantener mi cuerpo en forma y saludable.*
+*Cuando era más joven solía jugar básquet, gane un campeonato de fútbol en mi colegio. Aunque ya no realizo ninguno de estos dos deportes, me gusta ejercitarme seguido para mantener mi cuerpo en forma y saludable.*
 
 ![](cancha.png){fig-align="left" width="342" height="186"}
 
