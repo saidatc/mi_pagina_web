@@ -13,9 +13,9 @@ website:
         text: Hola
       - href: about_me.qmd
         text: Sobre mí
-      - href: formacion
+      - href: formacion.qmd
         text: Formación Académica
-      - href: hobbies
+      - href: hobbies.qmd
         text: Pasatiempos
       - end.qmd
 

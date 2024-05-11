@@ -12,5 +12,54 @@
     "title": "Contacto",
     "section": "",
     "text": "Si deseas comunicarte conmigo, dejo mi información de contacto.\nCorreo: stirado@espol.edu.ec\nNúmero: 0963630871\n\nGracias por llegar hasta aquí, espero que este sitio web haya sido de su agrado. Nos vemos en otra ocasión, bye."
+  },
+  {
+    "objectID": "about_me.html",
+    "href": "about_me.html",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Hola, sean bienvenidos a mi primera página web creada en Quarto.\nMe llamo Saida Tirado. Soy estudiante de la carrera de Logística y Transporte de la Escuela Superior Politécnica del Litoral (ESPOL). Actualmente, estoy cursando mi quinto semestre de la carrera. A lo largo de mi carrera he conocido compañeros y docentes que me han apoyado y ayudado mucho. Asi mismo, estoy muy agradecida por todo lo aprendido a lo largo de cada semestre.\nMe encanta aprender cosas nuevas, y estoy deseosa de seguir haciéndolo.\nEspero que esta página web sea de su agrado."
+  },
+  {
+    "objectID": "formacion.html",
+    "href": "formacion.html",
+    "title": "Formación Académica",
+    "section": "",
+    "text": "Escuela Particular Mixta Dr. Osvaldo Moreno.\n7 años de duración.\nEl Fortín."
+  },
+  {
+    "objectID": "formacion.html#primaria",
+    "href": "formacion.html#primaria",
+    "title": "Formación Académica",
+    "section": "",
+    "text": "Escuela Particular Mixta Dr. Osvaldo Moreno.\n7 años de duración.\nEl Fortín."
+  },
+  {
+    "objectID": "formacion.html#secundaria",
+    "href": "formacion.html#secundaria",
+    "title": "Formación Académica",
+    "section": "Secundaria",
+    "text": "Secundaria\nUnidad Educativa Fiscal Mixta Batalla de Tarqui\n3 años de duración.\nCalle Esmeraldas."
+  },
+  {
+    "objectID": "formacion.html#preparatoria",
+    "href": "formacion.html#preparatoria",
+    "title": "Formación Académica",
+    "section": "Preparatoria:",
+    "text": "Preparatoria:\nUnidad Educativa Fiscal Mixta Vicente Rocafuerte\n3 años de duración.\nCalle Aguirre."
+  },
+  {
+    "objectID": "formacion.html#educación-superior",
+    "href": "formacion.html#educación-superior",
+    "title": "Formación Académica",
+    "section": "Educación Superior",
+    "text": "Educación Superior\nEscuela Superior Politécnica del Litoral.\nEstudiante de Ingeniería en Logística y Transporte.\nGuayaquil - Ecuador."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Mis Pasatiempos",
+    "section": "",
+    "text": "Si desean conocerme más a profundidad, en esta sección podrán hacerlo.\n\nArte\nMe gusta ver a los artistas realizando retratos de la naturaleza, siento que puedo tener un sentimiento de relajación, aunque no soy buena dibujando, es algo que me llama mucho la atención.\n\n\nMúsica\nMe encanta la música, no soy buena cantando, pero sé tocar la flauta y un poco la guitarra. Me gustaria aprender a tocar el piano.\n\n\nDeportes\nCuando era más joven solia jugar básquet, gane un campeonato de fútbol en mi colegio. Aunque ya no realizo ninguno de estos dos deportes, me gusta ejercitarme seguido para mantener mi cuerpo en forma y saludable.\n\n\nAcadémicos\nSiempre he intentado que mis calificaciones sean altas, he recibido cuadros de honor durante mi tiempo en la primaria y preperatoria. Logre ingresar a una de las mejores universidades de mi pais y actualmente estoy cursando mi carrera en ella. Estoy muy agradecida por todas las personas que me han apoyado durante este proceso."
   }
 ]
